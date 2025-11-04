@@ -1,4 +1,4 @@
-# DF-Driver
+# xDR-Driver
 
 Micro:bit motor drive expansion board.
 ---------------------------------------------------------
