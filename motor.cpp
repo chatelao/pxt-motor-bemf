@@ -1,4 +1,4 @@
-#include "pxt.h"
+#include "motor.h"
 
 namespace motor {
     //%
